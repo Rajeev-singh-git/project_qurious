@@ -1,0 +1,8 @@
+Show a button on all websites.
+
+Visible cues of clickability on the button
+Start fake listening on btn Click and stop fake listening on next click.
+Visible cues of listening on the button.
+Start listening on btn Click and stop on btn click again. Dispaly transcript on console. (speechtotext)
+Display transcript on popup.
+The btn clicks should also  happen via kbd shortcut.
